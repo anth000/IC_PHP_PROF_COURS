@@ -186,7 +186,7 @@ class ProfCoursTest extends TestCase
         
         /**
         *
-        * Question 8 : Dans la fonction « testAdd() », s’inspirer de test d’ajout des profs pour tester l’ajout des cours.   
+        * Question 8 : Dans la fonction « testAdd() », s’inspirer de test d’ajout des profs pour tester l’ajout des cours.  Fait 
         *
         */
         $expected1 = count(self::$cours_a);
